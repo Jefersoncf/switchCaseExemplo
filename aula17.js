@@ -2,14 +2,14 @@
 //DESCRIÇÃO: Estrutura condicional switch
 
 var sexo = 'F';
-switch(sexo) {
+switch (sexo) {
     case 'M':
         alert('Macho');
         break;
 
-        case 'F':
+    case 'F':
         alert('Femea');
         break;
-        default:
-            alert('Indefinido')
-}
+    default:
+        alert('Indefinido')
+};
